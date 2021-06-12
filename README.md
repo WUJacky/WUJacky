@@ -1,0 +1,3 @@
+Hi this is Jacky Wu, I am a student in a computer engineering school.
+You are currently on my github containing mainly projects from school
+but also my course notes and other projects ...
